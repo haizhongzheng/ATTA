@@ -1,0 +1,9 @@
+{
+  "model-dir": "data-model/cifar-trades-atta-1",
+  "num-steps": 1,
+  "step-size": 0.015,
+  "epochs-reset": 10,
+  "epsilon": 0.031,
+  "training-method" : "trades",
+  "beta": 6
+}

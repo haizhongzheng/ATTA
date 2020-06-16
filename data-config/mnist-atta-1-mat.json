@@ -1,0 +1,9 @@
+{
+  "model-dir": "data-model/mnist-mat-atta-1",
+  "num-steps": 1,
+  "step-size": 0.01,
+  "epochs-reset": 10000000000,
+  "epsilon": 0.3,
+  "training-method" : "mat",
+  "beta": 6
+}

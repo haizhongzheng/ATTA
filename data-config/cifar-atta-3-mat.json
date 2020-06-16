@@ -1,0 +1,9 @@
+{
+  "model-dir": "data-model/cifar-mat-atta-3",
+  "num-steps": 3,
+  "step-size": 0.01,
+  "epochs-reset": 10,
+  "epsilon": 0.031,
+  "training-method" : "mat",
+  "beta": 6
+}
